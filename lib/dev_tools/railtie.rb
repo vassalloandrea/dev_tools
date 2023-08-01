@@ -2,12 +2,12 @@ require 'pry'
 require 'pry-rails'
 require 'pry-doc'
 require 'pry-byebug'
-require 'awesome_print'
+require "amazing_print"
 
 require 'letter_opener' if Rails.env.development?
 require 'dotenv-rails' if Rails.env.development? || Rails.env.test?
 
-AwesomePrint.pry!
+AmazingPrint.pry!
 
 module DevTools
   class Railtie < Rails::Railtie

@@ -8,7 +8,7 @@ ready to use, the tools in this repo are:
 * [**Pry Rails**][pry-rails] for additional commands (`show-routes`,
   `show-models`, `show-middleware`) in the Rails console.
 * [**Pry ByeBug**][pry-byebug] to turn the console into a simple debugger.
-* [**Awesome Print**][awesome_print] for stylish pretty print.
+* [**Amazing Print**][amazing_print] for stylish pretty print.
 * [**Pry Doc**][pry-doc] to browse Ruby source, including C, directly from the
   console.
 * [**Letter Opener**][letter_opener] for preview email in the browser.
@@ -43,7 +43,7 @@ And then execute:
 5. Create a new Pull Request
 
 [pry]:                http://pry.github.com
-[awesome_print]:      https://github.com/michaeldv/awesome_print
+[amazing_print]:      https://github.com/amazing-print/amazing_print
 [pry-rails]:          https://github.com/rweng/pry-rails
 [pry-doc]:            https://github.com/pry/pry-doc
 [pry-byebug]:         https://github.com/deivid-rodriguez/pry-byebug
